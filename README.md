@@ -2,7 +2,7 @@
 
 > A dark theme for [Miniflux](https://miniflux.app/)
 
-![Screenshot](./screenshot.png)
+![Screenshot](./miniflux-dracula.png)
 
 ## Install
 
