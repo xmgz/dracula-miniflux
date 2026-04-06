@@ -1,7 +1,7 @@
 
 ## Install 
 
-Open [GitHub `.css` file](https://github.com/dracula/foobar/archive/miniflux-dracula.css) option and unzip them.
+Open [miniflux-dracula.css file](https://raw.githubusercontent.com/xmgz/dracula-miniflux/refs/heads/main/miniflux-dracula.css) and copy/paste it in Miniflux Settings.
 
 ### Activating theme
 
