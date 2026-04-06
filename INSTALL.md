@@ -11,4 +11,4 @@ Open [miniflux-dracula.css file](https://raw.githubusercontent.com/xmgz/dracula-
 
 ## Optional
 
-* **also** paste [mf-drc-opt.css]() content for bigger titles and quote's styling
+* **also** paste [mf-drc-opt.css](https://raw.githubusercontent.com/xmgz/dracula-miniflux/refs/heads/main/mf-drc-opt.css) content for bigger titles and quote's styling
