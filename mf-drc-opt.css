@@ -1,0 +1,32 @@
+
+/* OTHER, UNCOMMENT
+
+
+WIDER, AND BIGGER TITLES */
+
+body {
+   max-width: 1100px; !important;
+}
+
+.item-title {
+   font-size: 1.4em;
+}
+
+/* FONT TYPES. INSTALL ON YOUR SYSTEM OR LINK EXTERNAL */
+
+.entry-content {
+   font-family: Atkinson-Hyperlegible;
+   font-size: 1.2em;
+}
+
+#page-header-title {
+   font-family: Inter;
+}
+
+/* QUOTES IN ARTICLES */
+
+article > blockquote {
+   font-size: 0.9rem;
+   font-style: italic;
+   background-color: #44475a;
+}
