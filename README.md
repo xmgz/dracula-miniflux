@@ -6,11 +6,11 @@
 
 ## Install
 
-* unpack css .zip file
+* open dracula-miniflux.css file
 * copy css file content
-* paste in Miniflux > Settings - Custom CSS textarea 
+* paste content in **Miniflux > Settings - Custom CSS textarea**
 
-## Team
+## Contributor
 
 This theme is maintained by [![ghose](https://github.com/xmgz.png?size=100)](https://github.com/xmgz)
 
