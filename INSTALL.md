@@ -1,19 +1,10 @@
-### [Foobar](https://foobar.com)
 
-#### Install using Git
+## Install 
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+Open [GitHub `.css` file](https://github.com/dracula/foobar/archive/miniflux-dracula.css) option and unzip them.
 
-```bash
-git clone https://github.com/dracula/foobar.git
-```
+### Activating theme
 
-#### Install manually
-
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
-
-#### Activating theme
-
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. copy raw .css file content from link above;
+2. paste .css content in **Settings > Custom CSS** textarea ;
+3. click **Update** button ✨
