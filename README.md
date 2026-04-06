@@ -9,6 +9,7 @@
 * open dracula-miniflux.css file
 * copy css file content
 * paste content in **Miniflux > Settings - Custom CSS textarea**
+* **optional**: add `mf-drc-opt.css` file content
 
 ## Contributor
 
